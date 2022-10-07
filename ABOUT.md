@@ -816,4 +816,15 @@
 
 **Interests**: Crossfit
 
-**Location**: Russia, Yaroslavl
+#### --- 63 ---
+**Location**: Canada
+
+**Name**: [Shaurya Gupta](https://github.com/shaurya50211)
+
+**Programming Language**: Swift
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 2 years
+
+**Interests**: Guitar, Math
